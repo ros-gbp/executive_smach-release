@@ -1,3 +1,28 @@
+## executive_smach (jade) - 2.0.0-0
+
+The packages in the `executive_smach` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release -r jade -t jade executive_smach` on `Thu, 30 Apr 2015 18:29:37 -0000`
+
+These packages were released:
+- `executive_smach`
+- `smach`
+- `smach_msgs`
+- `smach_ros`
+
+Version of package(s) in repository `executive_smach`:
+- upstream repository: https://github.com/ros/executive_smach.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## executive_smach (indigo) - 2.0.0-0
 
 The packages in the `executive_smach` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release executive_smach --track indigo --rosdistro indigo --new-track` on `Thu, 17 Apr 2014 20:51:18 -0000`
