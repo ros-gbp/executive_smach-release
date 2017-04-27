@@ -1,0 +1,13 @@
+Source: ros-lunar-smach-ros
+Section: misc
+Priority: extra
+Maintainer: Jonathan Bohren <jbo@jhu.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-rostest
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-lunar-smach-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-actionlib, ros-lunar-actionlib-msgs, ros-lunar-rospy, ros-lunar-rostopic, ros-lunar-smach, ros-lunar-smach-msgs, ros-lunar-std-msgs, ros-lunar-std-srvs
+Description: The smach_ros package contains extensions for the SMACH library to integrate it tightly with ROS.
+ For example, SMACH-ROS can call ROS services, listen to ROS topics, and integrate with actionlib both as a client, and a provider of action servers. SMACH is a new library that takes advantage of very old concepts in order to quickly create robust robot behavior with maintainable and modular code.
