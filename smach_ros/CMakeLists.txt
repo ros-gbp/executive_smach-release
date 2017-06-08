@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 2.8.3)
 
 project(smach_ros)
 
-find_package(catkin REQUIRED COMPONENTS rostest)
+find_package(catkin REQUIRED)
 
 catkin_python_setup()
 
@@ -11,9 +11,11 @@ catkin_package(
 )
 
 if(CATKIN_ENABLE_TESTING)
+  find_package(rostest REQUIRED)
   add_rostest(test/state_machine.test)
   add_rostest(test/sequence.test)
   add_rostest(test/concurrence.test)
   add_rostest(test/introspection.test)
   add_rostest(test/smach_actionlib.test)
+  add_rostest(test/monitor.test)
 endif()
