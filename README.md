@@ -1,3 +1,30 @@
+## executive_smach (kinetic) - 2.0.1-0
+
+The packages in the `executive_smach` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic executive_smach --edit` on `Thu, 08 Jun 2017 21:02:28 -0000`
+
+These packages were released:
+- `executive_smach`
+- `smach`
+- `smach_msgs`
+- `smach_ros`
+
+Version of package(s) in repository `executive_smach`:
+
+- upstream repository: https://github.com/ros/executive_smach.git
+- release repository: https://github.com/ros-gbp/executive_smach-release.git
+- rosdistro version: `2.0.0-2`
+- old version: `2.0.0-2`
+- new version: `2.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.5`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## executive_smach (indigo) - 2.0.1-0
 
 The packages in the `executive_smach` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo executive_smach --edit` on `Thu, 08 Jun 2017 20:58:49 -0000`
