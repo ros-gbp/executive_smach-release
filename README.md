@@ -1,3 +1,30 @@
+## executive_smach (lunar) - 2.0.1-0
+
+The packages in the `executive_smach` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar executive_smach --edit` on `Thu, 08 Jun 2017 20:53:49 -0000`
+
+These packages were released:
+- `executive_smach`
+- `smach`
+- `smach_msgs`
+- `smach_ros`
+
+Version of package(s) in repository `executive_smach`:
+
+- upstream repository: https://github.com/ros/executive_smach.git
+- release repository: https://github.com/ros-gbp/executive_smach-release.git
+- rosdistro version: `2.0.0-0`
+- old version: `2.0.0-0`
+- new version: `2.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.5`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## executive_smach (lunar) - 2.0.0-0
 
 The packages in the `executive_smach` repository were released into the `lunar` distro by running `/usr/bin/bloom-release executive_smach -r lunar -t lunar -n` on `Thu, 27 Apr 2017 00:28:31 -0000`
