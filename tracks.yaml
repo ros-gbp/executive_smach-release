@@ -108,4 +108,4 @@ tracks:
     ros_distro: lunar
     vcs_type: git
     vcs_uri: https://github.com/ros/executive_smach.git
-    version: 2.0.0
+    version: :{auto}
