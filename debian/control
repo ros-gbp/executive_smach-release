@@ -1,0 +1,12 @@
+Source: ros-melodic-executive-smach
+Section: misc
+Priority: extra
+Maintainer: Isaac I. Y. Saito <gm130s@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://ros.org/wiki/smach
+Standards-Version: 3.9.2
+
+Package: ros-melodic-executive-smach
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-smach, ros-melodic-smach-msgs, ros-melodic-smach-ros
+Description: This metapackage depends on the SMACH library and ROS SMACH integration packages.
