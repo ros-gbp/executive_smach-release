@@ -2,14 +2,8 @@
 Changelog for package smach_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.5.1 (2023-02-15)
+2.0.2 (2023-06-13)
 ------------------
-
-2.5.0 (2020-05-14)
-------------------
-* Python 3 compatibility `#71 <https://github.com/ros/executive_smach/issues/71>`_
-* Bump CMake version to avoid CMP0048 warning
-* Contributors: Shane Loretz, ahcorde
 
 2.0.1 (2017-06-08)
 ------------------

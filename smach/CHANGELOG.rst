@@ -2,20 +2,10 @@
 Changelog for package smach
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.5.1 (2023-02-15)
+2.0.2 (2023-06-13)
 ------------------
-* Fix: state machines cannot be pickled `#86 <https://github.com/ros/executive_smach/issues/86>`  
-* Fix: Python 3.9 compatibility  `#82 <https://github.com/ros/executive_smach/issues/82>`
-* Typo
-
-2.5.0 (2020-05-14)
-------------------
-* Python 3 compatibility `#71 <https://github.com/ros/executive_smach/issues/71>`_
-* Use setuptools instead of distutils
-* Bump CMake version to avoid CMP0048 warning
-* Update state.py Docstrings' @type descriptions `#59 <https://github.com/ros/executive_smach/issues/59>`_
-* Typo set_shutdown_cb() --> set_shutdown_check() `#56 <https://github.com/ros/executive_smach/issues/56>`_
-* Contributors: Isaac I.Y. Saito, Joseph Coombe, Shane Loretz, ahcorde, cclauss
+* Fix: state.py Docstrings' @type descriptions `#59 <https://github.com/ros/executive_smach/issues/59>`_
+* Fix: Typo set_shutdown_cb() --> set_shutdown_check() `#56 <https://github.com/ros/executive_smach/issues/56>`_ 
 
 2.0.1 (2017-06-08)
 ------------------
