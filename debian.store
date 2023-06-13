@@ -1,1 +1,1 @@
-{"trim": "", "base": "bddb520", "trimbase": "", "parent": "debian/melodic/smach_ros", "previous": "5e6a6e2"}
+{"base": "74402a7", "parent": "debian/melodic/smach_ros", "previous": "c35461e", "trim": "", "trimbase": ""}
