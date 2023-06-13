@@ -1,3 +1,30 @@
+## executive_smach (noetic) - 2.5.2-1
+
+The packages in the `executive_smach` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic executive_smach` on `Tue, 13 Jun 2023 15:49:01 -0000`
+
+These packages were released:
+- `executive_smach`
+- `smach`
+- `smach_msgs`
+- `smach_ros`
+
+Version of package(s) in repository `executive_smach`:
+
+- upstream repository: https://github.com/ros/executive_smach.git
+- release repository: https://github.com/ros-gbp/executive_smach-release.git
+- rosdistro version: `2.5.1-1`
+- old version: `2.5.1-1`
+- new version: `2.5.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## executive_smach (melodic) - 2.0.3-1
 
 The packages in the `executive_smach` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic executive_smach` on `Tue, 13 Jun 2023 15:30:24 -0000`
